@@ -2,8 +2,6 @@ import os
 import json
 import sys
 import shutil
-from platform import system
-
 from prettytable import PrettyTable
 from tkinter import filedialog
 
